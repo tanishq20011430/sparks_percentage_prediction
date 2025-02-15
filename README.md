@@ -100,3 +100,6 @@ In this project I have used linear regression model to predict the percentage sc
 
 
 ### Automated Update - Sat Feb 15 00:38:56 UTC 2025 🚀
+
+
+### Automated Update - Sat Feb 15 12:13:39 UTC 2025 🚀
